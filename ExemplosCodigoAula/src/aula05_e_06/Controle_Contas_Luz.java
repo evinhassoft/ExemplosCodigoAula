@@ -1,4 +1,4 @@
-package aula05_e_05;
+package aula05_e_06;
 
 public class Controle_Contas_Luz {
 	private String id;

@@ -1,4 +1,4 @@
-package aula05_e_05;
+package aula05_e_06;
 
 public class Conta_Luz {
 	private String dt_leitura; 
