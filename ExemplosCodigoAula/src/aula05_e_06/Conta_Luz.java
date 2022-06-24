@@ -6,7 +6,7 @@ public class Conta_Luz {
 	private double qtd_kw_gastos;
 	private double valor;
 	
-	private Conta_Luz(String dt_leitura, 
+	public Conta_Luz(String dt_leitura, 
 			String dt_pag, double qtd_kw_gastos, 
 			double valor) {
 		this.dt_leitura = dt_leitura;
