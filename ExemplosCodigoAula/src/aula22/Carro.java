@@ -5,7 +5,7 @@ package aula22;
  * e herda da classe Veiculo.
  * @author Fabiana Freitas Mendes
  * @since 2022
- * @version 1.1 
+ * @version 1.1
  */
 
 public class Carro extends Veiculo {
